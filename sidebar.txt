@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sgt:home|Door43 (sgt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sgt|d43-sgt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sgt/archive/master.zip|d43-sgt.zip]]
+
+**Recent Changes**
+{{changes>ns = sgt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sgt|Ethnologue data]]
+
